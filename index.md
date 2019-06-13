@@ -1,5 +1,5 @@
 ---
-title: AlterOrb
+title: /
 layout: home
 permalink: /
 ---
