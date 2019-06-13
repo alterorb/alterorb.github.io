@@ -1,4 +1,5 @@
 remote_theme: b2a3e8/jekyll-theme-console
 header_pages:
   - index.md
+  - faq.md
 title: AlterOrb -

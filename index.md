@@ -1,10 +1,17 @@
 ---
 title: /
 layout: home
-permalink: /
+menu_title: Home
 ---
 ## AlterOrb
 
-Hello World!
+AlterOrb is a project that aims to bring back some of the games that were available on FunOrb.
 
-### FAQ
+## Downloading the launcher
+
+The latest launcher version can be downloaded from the github [releases](https://github.com/alterorb/alterorb-launcher/releases) page.
+
+## Problems?
+
+If you're having any problems downloading or using the launcher first head over to the [FAQ](faq.html) page. 
+If you can't find your question there or you need further help join either the [FunOrb Central](https://discordapp.com/invite/a4qUynM) discord or the [FunOrb](https://discordapp.com/invite/MGfDrDf) discord.
