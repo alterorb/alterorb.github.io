@@ -15,7 +15,7 @@ The latest launcher version can be downloaded from the github [releases](https:/
 
 You can visit our community forums at [https://community.alterorb.net/](https://community.alterorb.net/).
 
-Problems?
+## Problems?
 If you’re having any problems downloading or using the launcher first head over to the FAQ page. If you can’t find your question there or you need further help you can find further help in:
 
 * [The community forums](https://community.alterorb.net/) 
