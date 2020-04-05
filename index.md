@@ -18,7 +18,6 @@ You can visit our community forums at [https://community.alterorb.net/](https://
 ## Problems?
 If you’re having any problems downloading or using the launcher first head over to the FAQ page. If you can’t find your question there or you need further help you can find further help in:
 
-* [The community forums](https://community.alterorb.net/) 
 * The [FunOrb](https://discordapp.com/invite/MGfDrDf) discord server 
 * The [FunOrb Central](https://discordapp.com/invite/a4qUynM) discord server
 * The irc channel #alterorb at [rizon.net](rizon.net)
